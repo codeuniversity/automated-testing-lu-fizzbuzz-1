@@ -2,7 +2,7 @@
 
 Are you here because you are taking part in the LU?
 
-Please open: https://gitpod.io/#https://github.com/codeuniversity/automated-testing-lu-fizzbuzz-1
+Please open: https://gitpod.io/#https://github.com/codeuniversity/automated-testing-lu-fizzbuzz-1/blob/main/fizzbuzz.py
 
 Then, follow the instructions given in the workshop, and the following, by opening `fizzbuzz.py`:
 
