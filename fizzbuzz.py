@@ -1,12 +1,3 @@
-# Automated Testing LU FizzBuzz
-
-Are you here because you are taking part in the LU?
-
-Please open: https://gitpod.io/#https://github.com/codeuniversity/automated-testing-lu-fizzbuzz-1
-
-Then, follow the instructions given in the workshop, and the following, by opening `fizzbuzz.py`:
-
-```python
 # KEEP THE COMMENTS SO YOU KNOW WHAT TO DO
 
 # DO NOT EDIT THIS FUNCTION
@@ -23,4 +14,3 @@ def fizzBuzz(n):
 ## - the number is divisible by both 3 and 5, in which case it returns "FizzBuzz"
 
 # ADD YOUR TESTS HERE
-```
